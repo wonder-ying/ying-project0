@@ -1,7 +1,9 @@
 pandas
-bokeh
-dill
-flask
-jinja2
-pip
 simplejson
+requests
+datetime
+bokeh
+pip
+gunicorn
+flask
+Jinja2
